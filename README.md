@@ -44,8 +44,8 @@ whoami:
 <a href="https://github.com/ValldHebron-Bioinformatics/FluTyper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=FluTyper&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="FluTyper"/>
 </a>
-<a href="https://github.com/ValldHebron-Bioinformatics/vigilancia-virologica">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=vigilancia-virologica&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="vigilancia-virologica"/>
+<a href="https://github.com/ValldHebron-Bioinformatics/VHIRPrimerLab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=VHIRPrimerLab&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="VHIRPrimerLab"/>
 </a>
 
 </div>

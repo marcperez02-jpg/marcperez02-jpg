@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,50:1b998b,100:5fd3bc&height=200&section=header&text=Marc%20P%C3%A9rez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Bioinformatician%20%E2%80%A2%20Viral%20Genomic%20Surveillance&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/marcperez02-jpg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1B998B&center=true&vCenter=true&width=640&lines=Tracking+viruses+one+read+at+a+time+%F0%9F%A7%AC;Influenza+%7C+Dengue+%7C+CMV;Nextflow+pipelines+for+One+Health+surveillance;Turning+FASTQ+into+public+health+decisions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1B998B&center=true&vCenter=true&width=640&lines=Tracking+viruses+one+read+at+a+time+%F0%9F%A7%AC;Respiratory+viruses+%7C+Influenza+%7C+RSV+%7C+Dengue;Nextflow+pipelines+for+One+Health+surveillance;Turning+FASTQ+into+public+health+decisions" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ whoami:
 
 - 🔬 I build pipelines that turn raw sequencing runs into **genotypes, lineages, resistance and zoonotic markers**.
 - 🐦 Main focus: **avian and human influenza** (genotyping, reassortment, mammalian adaptation markers).
-- 🦟 Also running **dengue**, **CMV antiviral resistance** and a **multi-virus NGS** workflow in the clinical lab.
+- 🫁 Beyond flu: **respiratory viruses** (RSV and more), **dengue**, **CMV** and a **multi-virus NGS** workflow in the clinical lab.
 - 📄 Every run ends in an automated, reviewer-friendly report, because surveillance data is only useful if someone reads it.
 
 ---
@@ -107,7 +107,7 @@ whoami:
 ### 🔭 Currently
 
 - 🐦 Expanding **FluTyper** with new zoonotic and antiviral resistance markers
-- 🧫 Sequencing a **CMV** cohort for antiviral resistance
+- 🫁 Developing an **RSV mutation prediction** tool
 - 📄 Polishing automated **per-run PDF reports** for the multi-virus NGS pipeline
 - 🤝 Open to collaborations on **viral genomics, One Health and pipeline engineering**
 
@@ -118,10 +118,9 @@ whoami:
 <div align="center">
 
 <a href="https://github.com/ValldHebron-Bioinformatics"><img src="https://img.shields.io/badge/ValldHebron--Bioinformatics-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://vhir.vallhebron.com"><img src="https://img.shields.io/badge/VHIR-0f4c5c?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://orcid.org/YOUR-ORCID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-1b998b?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marc-p%C3%A9rez-i-bautista-a5a048258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0007-5912-1797"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="mailto:marc.perez.bautista@vhir.org"><img src="https://img.shields.io/badge/Email-1b998b?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 
 <br/><br/>
 

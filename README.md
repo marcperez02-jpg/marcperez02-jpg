@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,50:1b998b,100:5fd3bc&height=200&section=header&text=Marc%20P%C3%A9rez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Bioinformatician%20%E2%80%A2%20Viral%20Genomic%20Surveillance&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,50:1b998b,100:5fd3bc&height=200&section=header&text=Marc%20P%C3%A9rez-Bautista&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Bioinformatician%20%E2%80%A2%20Viral%20Genomic%20Surveillance&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/marcperez02-jpg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1B998B&center=true&vCenter=true&width=640&lines=Tracking+viruses+one+read+at+a+time+%F0%9F%A7%AC;Respiratory+viruses+%7C+Influenza+%7C+RSV+%7C+Dengue;Nextflow+pipelines+for+One+Health+surveillance;Turning+FASTQ+into+public+health+decisions" alt="Typing SVG"/>

@@ -42,10 +42,10 @@ whoami:
 <div align="center">
 
 <a href="https://github.com/ValldHebron-Bioinformatics/FluTyper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=FluTyper&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="FluTyper"/>
+  <img src="https://github-readme-stats-omega-ten-32.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=FluTyper&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="FluTyper"/>
 </a>
 <a href="https://github.com/ValldHebron-Bioinformatics/VHIRPrimerLab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=VHIRPrimerLab&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="VHIRPrimerLab"/>
+  <img src="https://github-readme-stats-omega-ten-32.vercel.app/api/pin/?username=ValldHebron-Bioinformatics&repo=VHIRPrimerLab&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55&show_owner=true" alt="VHIRPrimerLab"/>
 </a>
 
 </div>
@@ -93,8 +93,8 @@ whoami:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcperez02-jpg&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcperez02-jpg&layout=compact&langs_count=6&theme=transparent&title_color=1b998b&text_color=8b949e&border_color=1b998b55" alt="top languages"/>
+<img height="165" src="https://github-readme-stats-omega-ten-32.vercel.app/api?username=marcperez02-jpg&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&border_color=1b998b55" alt="stats"/>
+<img height="165" src="https://github-readme-stats-omega-ten-32.vercel.app/api/top-langs/?username=marcperez02-jpg&layout=compact&langs_count=6&theme=transparent&title_color=1b998b&text_color=8b949e&border_color=1b998b55" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=marcperez02-jpg&theme=transparent&ring=1b998b&fire=1b998b&currStreakLabel=1b998b&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&border=1b998b55" alt="streak"/>
 

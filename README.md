@@ -26,7 +26,7 @@ whoami:
   team:      ValldHebron-Bioinformatics, Virology NGS
   mission:   Genomic surveillance of human and zoonotic viruses
   framework: One Health 🐦 🐖 🧑
-  building:  Reproducible NGS pipelines that run in production, not just on my laptop
+  building:  Reproducible Nextflow pipelines for clinical NGS
   languages: [Català, Español, English]
 ```
 
